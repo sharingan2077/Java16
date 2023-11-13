@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/times_new_roman"
+        android:title="Times New Roman"/>
+    <item android:id="@+id/ms_cans_serif"
+        android:title="MS Cans Serif"/>
+    <item android:id="@+id/courier_new"
+        android:title="Courier New"/>
+</menu>
